@@ -1,0 +1,4 @@
+interface:
+  display_name: "rts-ima"
+  short_description: "Rayner Teo IMA 检索入口"
+  default_prompt: "Use $rts-ima to search, cite, or troubleshoot the Rayner Teo IMA knowledge base."

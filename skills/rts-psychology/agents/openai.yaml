@@ -1,0 +1,4 @@
+interface:
+  display_name: "rts-psychology"
+  short_description: "交易心理与纪律诊断"
+  default_prompt: "Use $rts-psychology to convert execution problems into process rules."

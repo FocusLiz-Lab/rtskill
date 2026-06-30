@@ -1,0 +1,4 @@
+interface:
+  display_name: "rts-trading-plan"
+  short_description: "交易计划与执行清单"
+  default_prompt: "Use $rts-trading-plan to build a checklist, risk plan, and review workflow."

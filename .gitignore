@@ -1,0 +1,12 @@
+.work/
+skillhub-package/
+*.zip
+book/
+youtube/
+youtube_分类/
+youtube合并_按年份/
+推文/
+*.pdf
+*.key
+*.env
+*.log

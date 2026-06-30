@@ -1,0 +1,4 @@
+interface:
+  display_name: "rts-learning-map"
+  short_description: "Rayner Teo 交易学习地图"
+  default_prompt: "Use $rts-learning-map to build a staged Rayner Teo trading learning path."

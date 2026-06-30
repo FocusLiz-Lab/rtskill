@@ -1,0 +1,4 @@
+interface:
+  display_name: "rts-review"
+  short_description: "交易想法与日志复盘"
+  default_prompt: "Use $rts-review to critique a trade idea, chart, journal, or strategy draft."

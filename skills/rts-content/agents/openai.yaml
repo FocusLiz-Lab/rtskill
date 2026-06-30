@@ -1,0 +1,4 @@
+interface:
+  display_name: "rts-content"
+  short_description: "交易教育内容创作"
+  default_prompt: "Use $rts-content to create educational trading content from Rayner Teo themes."

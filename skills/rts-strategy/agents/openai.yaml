@@ -1,0 +1,4 @@
+interface:
+  display_name: "rts-strategy"
+  short_description: "交易策略研究与规则化"
+  default_prompt: "Use $rts-strategy to turn Rayner Teo material into testable strategy rules."

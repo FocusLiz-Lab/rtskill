@@ -1,0 +1,4 @@
+interface:
+  display_name: "rts"
+  short_description: "Rayner Teo 主入口与路由"
+  default_prompt: "Use $rts to route a Rayner Teo trading question to the right workflow."
