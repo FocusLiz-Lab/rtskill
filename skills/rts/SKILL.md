@@ -1,7 +1,7 @@
 ---
 name: rts
 description: |
-  Rayner Teo trading education workflow router with default IMA knowledge-base grounding. Use when the user asks about Rayner Teo, TradingwithRayner, price action, trend trading, support and resistance, breakout trading, false breakout, candlestick patterns, moving averages, trading indicators, risk management, trading psychology, trading systems, trading plans, trade review, learning paths, content ideas, or IMA retrieval. By default, use the IMA knowledge base named "Rayner Teo 知识库". Triggers include $rts, /rts, Rayner Teo, TradingwithRayner, 价格行为, 趋势交易, 支撑阻力, 突破交易, 假突破, K线, 风控, 交易心理, 交易计划, 复盘, and 学习地图.
+  Rayner Teo trading education workflow router with default IMA knowledge-base grounding. Use when the user asks about Rayner Teo, TradingwithRayner, price action, trend trading, support and resistance, breakout trading, false breakout, candlestick patterns, moving averages, trading indicators, risk management, trading psychology, trading systems, trading plans, trade review, learning paths, content ideas, or IMA retrieval. By default, use the IMA knowledge base named "RaynerTeo交易知识库 | 顺势而为". Triggers include $rts, /rts, Rayner Teo, TradingwithRayner, 价格行为, 趋势交易, 支撑阻力, 突破交易, 假突破, K线, 风控, 交易心理, 交易计划, 复盘, and 学习地图.
 ---
 
 # rts
@@ -13,7 +13,7 @@ Act as the main router for the Rayner Teo skill toolbox. Identify the user's int
 All workflow skills default to:
 
 ```text
-Rayner Teo 知识库
+RaynerTeo交易知识库 | 顺势而为
 ```
 
 Users do not need to mention this knowledge-base name. If they explicitly name another IMA knowledge base, use that name instead.

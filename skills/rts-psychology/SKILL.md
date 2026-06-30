@@ -1,7 +1,7 @@
 ---
 name: rts-psychology
 description: |
-  Diagnose trading psychology and execution-discipline problems through Rayner Teo style trading-process frameworks with default IMA knowledge-base grounding. Use when the user mentions overtrading, revenge trading, fear of missing out, fear of loss, moving stops, cutting winners early, holding losers, drawdowns, inconsistent execution, quitting trading, full-time trading expectations, or confidence after losses. Default IMA knowledge base: "Rayner Teo 知识库". Triggers include $rts-psychology, 交易心理, 纪律, 过度交易, 报复性交易, 扛单, 提前离场, 连续亏损, and 情绪交易.
+  Diagnose trading psychology and execution-discipline problems through Rayner Teo style trading-process frameworks with default IMA knowledge-base grounding. Use when the user mentions overtrading, revenge trading, fear of missing out, fear of loss, moving stops, cutting winners early, holding losers, drawdowns, inconsistent execution, quitting trading, full-time trading expectations, or confidence after losses. Default IMA knowledge base: "RaynerTeo交易知识库 | 顺势而为". Triggers include $rts-psychology, 交易心理, 纪律, 过度交易, 报复性交易, 扛单, 提前离场, 连续亏损, and 情绪交易.
 ---
 
 # rts-psychology
@@ -10,7 +10,7 @@ Turn emotional trading problems into process changes and review rules.
 
 ## Default IMA Knowledge Base
 
-Use `Rayner Teo 知识库` unless the user explicitly names another knowledge base.
+Use `RaynerTeo交易知识库 | 顺势而为` unless the user explicitly names another knowledge base.
 
 ## Workflow
 

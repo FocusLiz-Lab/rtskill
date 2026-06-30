@@ -21,4 +21,4 @@ Use this map only as a navigation hint. For source claims, retrieve from IMA.
 
 ## Boundary
 
-Do not include private local paths in user-facing output. Refer to the default IMA knowledge base as `Rayner Teo 知识库`.
+Do not include private local paths in user-facing output. Refer to the default IMA knowledge base as `RaynerTeo交易知识库 | 顺势而为`.

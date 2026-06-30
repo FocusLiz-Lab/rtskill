@@ -1,7 +1,7 @@
 ---
 name: rts-review
 description: |
-  Review trading ideas, chart screenshots, trade journals, and strategy drafts using Rayner Teo style price-action and risk-management frameworks with default IMA knowledge-base grounding. Use when the user asks to critique a setup, review an entry/stop/target, diagnose a failed trade, improve a trading plan, or evaluate a chart-based thesis. Default IMA knowledge base: "Rayner Teo 知识库". Triggers include $rts-review, 交易复盘, 图表复盘, 点评交易, 策略评审, 入场, 止损, 目标, and 交易日志.
+  Review trading ideas, chart screenshots, trade journals, and strategy drafts using Rayner Teo style price-action and risk-management frameworks with default IMA knowledge-base grounding. Use when the user asks to critique a setup, review an entry/stop/target, diagnose a failed trade, improve a trading plan, or evaluate a chart-based thesis. Default IMA knowledge base: "RaynerTeo交易知识库 | 顺势而为". Triggers include $rts-review, 交易复盘, 图表复盘, 点评交易, 策略评审, 入场, 止损, 目标, and 交易日志.
 ---
 
 # rts-review
@@ -10,7 +10,7 @@ Review user-provided trading material using a structured, education-only process
 
 ## Default IMA Knowledge Base
 
-Use `Rayner Teo 知识库` unless the user explicitly names another knowledge base.
+Use `RaynerTeo交易知识库 | 顺势而为` unless the user explicitly names another knowledge base.
 
 ## Required Inputs
 

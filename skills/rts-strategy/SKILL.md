@@ -1,7 +1,7 @@
 ---
 name: rts-strategy
 description: |
-  Extract and structure Rayner Teo style trading strategies with default IMA knowledge-base grounding. Use when the user asks about price action, trend trading, support and resistance, breakout or false breakout, candlestick patterns, moving averages, indicators, entries, exits, stops, targets, invalidation, backtesting assumptions, or trading system design. Default IMA knowledge base: "Rayner Teo 知识库". Triggers include $rts-strategy, 策略研究, 交易策略, 趋势交易, 突破交易, 支撑阻力, K线, 指标, and 交易系统.
+  Extract and structure Rayner Teo style trading strategies with default IMA knowledge-base grounding. Use when the user asks about price action, trend trading, support and resistance, breakout or false breakout, candlestick patterns, moving averages, indicators, entries, exits, stops, targets, invalidation, backtesting assumptions, or trading system design. Default IMA knowledge base: "RaynerTeo交易知识库 | 顺势而为". Triggers include $rts-strategy, 策略研究, 交易策略, 趋势交易, 突破交易, 支撑阻力, K线, 指标, and 交易系统.
 ---
 
 # rts-strategy
@@ -10,7 +10,7 @@ Turn Rayner Teo material into a testable trading strategy structure.
 
 ## Default IMA Knowledge Base
 
-Use `Rayner Teo 知识库` unless the user explicitly names another knowledge base.
+Use `RaynerTeo交易知识库 | 顺势而为` unless the user explicitly names another knowledge base.
 
 ## Workflow
 

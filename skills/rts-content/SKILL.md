@@ -1,7 +1,7 @@
 ---
 name: rts-content
 description: |
-  Create trading education content from Rayner Teo knowledge-base materials with default IMA grounding. Use when the user asks for content ideas, YouTube scripts, short-video hooks, article outlines, newsletter drafts, course modules, study notes, summary cards, or repurposing price action, trend trading, breakout, support/resistance, risk management, or trading psychology topics. Default IMA knowledge base: "Rayner Teo 知识库". Triggers include $rts-content, 内容创作, 选题, 脚本, 文章, 短视频, 课程提纲, 笔记, and 资料整理.
+  Create trading education content from Rayner Teo knowledge-base materials with default IMA grounding. Use when the user asks for content ideas, YouTube scripts, short-video hooks, article outlines, newsletter drafts, course modules, study notes, summary cards, or repurposing price action, trend trading, breakout, support/resistance, risk management, or trading psychology topics. Default IMA knowledge base: "RaynerTeo交易知识库 | 顺势而为". Triggers include $rts-content, 内容创作, 选题, 脚本, 文章, 短视频, 课程提纲, 笔记, and 资料整理.
 ---
 
 # rts-content
@@ -10,7 +10,7 @@ Create educational trading content from source-grounded Rayner Teo themes.
 
 ## Default IMA Knowledge Base
 
-Use `Rayner Teo 知识库` unless the user explicitly names another knowledge base.
+Use `RaynerTeo交易知识库 | 顺势而为` unless the user explicitly names another knowledge base.
 
 ## Workflow
 

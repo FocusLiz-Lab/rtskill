@@ -1,7 +1,7 @@
 ---
 name: rts-ima
 description: |
-  Compatibility entry for IMA retrieval with Rayner Teo trading workflows. Use when the user explicitly invokes $rts-ima or asks to search, read, cite, quote-check, summarize, or troubleshoot Rayner Teo, TradingwithRayner, price action, trend trading, support/resistance, breakout, false breakout, candlestick, indicator, risk management, psychology, or trading system materials from IMA. This skill uses the default IMA knowledge base named "Rayner Teo 知识库".
+  Compatibility entry for IMA retrieval with Rayner Teo trading workflows. Use when the user explicitly invokes $rts-ima or asks to search, read, cite, quote-check, summarize, or troubleshoot Rayner Teo, TradingwithRayner, price action, trend trading, support/resistance, breakout, false breakout, candlestick, indicator, risk management, psychology, or trading system materials from IMA. This skill uses the default IMA knowledge base named "RaynerTeo交易知识库 | 顺势而为".
 ---
 
 # rts-ima
@@ -11,7 +11,7 @@ Use this skill as a thin compatibility entry for users who explicitly ask for IM
 Default IMA knowledge base:
 
 ```text
-Rayner Teo 知识库
+RaynerTeo交易知识库 | 顺势而为
 ```
 
 For the actual workflow, follow `$rts`:

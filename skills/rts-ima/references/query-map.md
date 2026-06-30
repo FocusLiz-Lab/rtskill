@@ -1,6 +1,6 @@
 # rts-ima Query Map
 
-Use the default IMA knowledge base `Rayner Teo 知识库`.
+Use the default IMA knowledge base `RaynerTeo交易知识库 | 顺势而为`.
 
 ## Query Expansion
 

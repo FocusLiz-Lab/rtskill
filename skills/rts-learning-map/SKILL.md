@@ -1,7 +1,7 @@
 ---
 name: rts-learning-map
 description: |
-  Build Rayner Teo trading learning paths with default IMA knowledge-base grounding. Use when the user asks where to start, how to learn price action, trend trading, support/resistance, breakout trading, candlestick patterns, indicators, risk management, trading psychology, or how to turn the Rayner Teo knowledge base into a staged curriculum. Default IMA knowledge base: "Rayner Teo 知识库". Triggers include $rts-learning-map, 学习地图, 学习路径, 系统学习, 先学什么, 入门, 价格行为学习, and 交易学习计划.
+  Build Rayner Teo trading learning paths with default IMA knowledge-base grounding. Use when the user asks where to start, how to learn price action, trend trading, support/resistance, breakout trading, candlestick patterns, indicators, risk management, trading psychology, or how to turn the Rayner Teo knowledge base into a staged curriculum. Default IMA knowledge base: "RaynerTeo交易知识库 | 顺势而为". Triggers include $rts-learning-map, 学习地图, 学习路径, 系统学习, 先学什么, 入门, 价格行为学习, and 交易学习计划.
 ---
 
 # rts-learning-map
@@ -10,7 +10,7 @@ Create a structured learning path for Rayner Teo trading materials.
 
 ## Default IMA Knowledge Base
 
-Use `Rayner Teo 知识库` unless the user explicitly names another knowledge base.
+Use `RaynerTeo交易知识库 | 顺势而为` unless the user explicitly names another knowledge base.
 
 ## Workflow
 

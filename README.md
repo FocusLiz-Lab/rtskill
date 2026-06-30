@@ -43,7 +43,7 @@ skills/
 整套 workflow skills 默认读取这个 IMA 知识库：
 
 ```text
-Rayner Teo 知识库
+RaynerTeo交易知识库 | 顺势而为
 ```
 
 用户不需要在每次提问时输入知识库名称。如果想使用其他 IMA 知识库，在问题里直接写知识库名称即可。
