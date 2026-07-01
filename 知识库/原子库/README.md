@@ -1,9 +1,22 @@
-# Rayner Teo 原子库
+# rts 原子库
 
-这里保存发布安全的抽象交易学习原子，用于支撑 `rtskill` workflow。
+- atoms: 5131
+- generated: 2026-07-01 14:49:43
 
-原则：
+## type counts
 
-- 只保存抽象后的方法论、检查项和边界规则。
-- 不保存原始转录稿、PDF 正文、推文全文或付费资料。
-- 具体引用、原文核对和出处确认回到 `RaynerTeo交易知识库 | 顺势而为` 的 IMA 检索。
+- anti-pattern: 304
+- case: 2263
+- checklist: 314
+- insight: 384
+- method: 938
+- principle: 928
+
+## top topics
+
+- risk: 2000
+- trend: 1761
+- price-action: 1427
+- general: 1009
+- backtesting: 294
+- psychology: 252
