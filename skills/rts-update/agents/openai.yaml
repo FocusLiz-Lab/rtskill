@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rayner Teo 更新"
+  short_description: "Update suite skills and atom libraries safely"
+  default_prompt: "Use $rts-update to update the suite and its atom libraries from GitHub."
