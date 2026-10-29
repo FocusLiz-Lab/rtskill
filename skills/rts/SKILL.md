@@ -4,6 +4,17 @@ description: |
   Rayner Teo 交易学习 Skill 工具箱主入口。用于价格行为、趋势交易、支撑阻力、突破交易、假突破、K线形态、均线、交易指标、风险管理、交易心理、交易系统、交易计划、交易复盘、学习路径、内容选题和 IMA 资料检索。默认使用 IMA 知识库「RaynerTeo交易知识库 | 顺势而为」，并可在 IMA 不可用时读取本地原子库。触发词包括 $rts、/rts、Rayner Teo、TradingwithRayner、价格行为、趋势交易、支撑阻力、突破交易、假突破、K线、风控、交易心理、交易计划、复盘和学习地图。
 ---
 
+## 手动更新路由
+
+用户明确要求“更新 skill / 检查更新 / 同步最新原子库”时，先执行此路由。使用当前 SKILL.md 所在目录解析脚本绝对路径：
+
+```text
+python "{skillDir}/tools/update_skill.py"
+```
+
+只检查时加 `--check`。脚本从 GitHub main 的固定提交同步本仓库整套 skill 和原子资料，覆盖前备份，写入失败回滚；不需要 Git 或 GitHub 登录。根据脚本实际结果报告当前提交、更新状态与失败原因。普通业务问题不自动更新。更新后重新读取相关 SKILL.md。
+
+
 # rts Rayner Teo 交易学习工具箱
 
 这是 Rayner Teo 交易学习工具箱的主入口。先判断用户意图，再路由到最相关的 workflow skill；如果上下文足够，直接在同一回答中完成对应工作流。

@@ -10,3 +10,5 @@ youtube合并_按年份/
 *.key
 *.env
 *.log
+__pycache__/
+*.pyc
